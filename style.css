@@ -1,0 +1,69 @@
+
+  body{
+    margin: 0px;
+    background-color:  hsl(180, 52%, 96%);
+  }
+
+ .header{
+    background-color:  hsl(180, 29%, 50%);
+    margin-top: 0px;
+ }
+
+#img{
+    width: 100%;
+}
+
+ p{
+        color: hsl(180, 29%, 50%);
+    }
+
+  .w3-toggle {
+    padding: 3px;
+    background-color:aquamarine;
+    color: white;
+  }  
+
+  .photo{
+    color: hsl(180, 29%, 50%);
+    font-size: larger;
+  }
+
+  .w3-card-4{
+   
+    background-color: white;
+  }
+
+  p{
+    color: hsl(180, 29%, 50%);
+  }
+
+.lag{
+    margin-top: 30px;
+   justify-content: space-between;
+ 
+}
+
+ .toggle{
+    cursor: pointer;
+    padding: 5px;
+    background-color:  hsl(180, 31%, 95%);
+    color:  hsl(180, 14%, 20%);
+ }
+
+ .toggle:hover{
+  background-color: aquamarine;
+  color: white;
+ }
+
+ .image{
+  float: left;
+ }
+
+ .input-form{
+   text-align: center;
+   margin-top: 10px;
+ }
+
+ #myinput{
+  width: 70%;
+ }
